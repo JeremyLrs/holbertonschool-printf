@@ -177,7 +177,7 @@ Expected output :
 ## 📂 <span id="files-description">File description</span>
 
 | **FILE**            | **DESCRIPTION**                                  |
-| -----------------: | ------------------------------------------------- |
+| :----------------- | ------------------------------------------------- |
 | [`main.h`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/main.h)| The header file contain all the prototypes functions.      |
 | [`README.md`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/README.md)| The `README.md` file.|
 | [`binary_handler.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/binary_handler.c)| Convert unsigned int in binary depending on length (long,short,unsigned char) |
@@ -208,7 +208,7 @@ Expected output :
 | [`string_handler.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/string_handler.c)|Provide the copy of string |
 | [`string_helper.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/string_helper.c)| Provide utility function for string operations |
 | [`unsigned_int_handler.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/unsigned_int_handler.c)| Convert a unsigned int in string |
-| `unsigned_int_handler_length.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/unsigned_int_handler_length.c)| Provide functions for dealing with length for unsigned int handler |
+| [`unsigned_int_handler_length.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/unsigned_int_handler_length.c)| Provide functions for dealing with length for unsigned int handler |
 | [`unsigned_int_helper.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/unsigned_int_helper.c)| Function to provide the size to make a string for unsigned int |
 | [`width_handler.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/width_handler.c)| Function to deal with width|
 | [`man_3_printf`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/man_3_printf)| Manual page of our function `printf`.| 
