@@ -178,7 +178,6 @@ Expected output :
 
 | **FILE**            | **DESCRIPTION**                                  |
 | :----------------- | ------------------------------------------------- |
-| [`main.h`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/main.h)| The header file contain all the prototypes functions.      |
 | [`README.md`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/README.md)| The `README.md` file.|
 | [`binary_handler.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/binary_handler.c)| Convert unsigned int in binary depending on length (long,short,unsigned char) |
 | [`binary_handler_length.c`](https://github.com/JeremyLrs/holbertonschool-printf/blob/main/binary_handler_length.c)| Provide functions for dealing with length for binary handler|
